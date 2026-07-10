@@ -476,7 +476,7 @@
   group: Breads
   solids:
     FoodDough: 1
-    FoodMeat: 1 #replace with sausage
+    FoodSausage: 1 #Carpmosia-edit sausage
 
 - type: microwaveMealRecipe
   id: RecipeSpiderMeatBread

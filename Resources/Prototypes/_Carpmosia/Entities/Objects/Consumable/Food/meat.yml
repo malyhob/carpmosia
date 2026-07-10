@@ -1,0 +1,18 @@
+- type: entity
+  parent: FoodMeatRawBase
+  id: FoodSausage
+  name: sausage
+  description: Not dog meat until heated
+  components:
+  - type: Sprite
+    state: sausage
+  - type: Tag
+    tags:
+    - Meat
+  - type: Item
+    storedOffset: -2,1
+    inhandVisuals:
+      left:
+      - state: sausage-inhand-left
+      right:
+      - state: sausage-inhand-right

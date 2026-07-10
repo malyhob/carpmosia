@@ -1,0 +1,20 @@
+# When adding new food also add to random spawner located in Resources\Prototypes\Entities\Markers\Spawners\Random\Food_Drinks\food_produce.yml
+
+- type: entity
+  parent: [SolutionTiny, FoodMealBase]
+  id: FoodHotdog
+  name: hotdog
+  description: Still 150 spesos, just as intended
+  components:
+  - type: Item
+    size: Tiny
+    shape:
+  - type: FlavorProfile
+    flavors:
+      - meaty
+      - bread
+  - type: Sprite
+    state: hotdog
+  - type: Tag
+    tags:
+    - Meat

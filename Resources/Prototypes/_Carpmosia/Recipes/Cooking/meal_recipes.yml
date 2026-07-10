@@ -1,0 +1,18 @@
+- type: microwaveMealRecipe
+  id: RecipeHotdog
+  name: hotdog recipe
+  result: FoodHotdog
+  time: 5
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    FoodSausage: 1
+- type: microwaveMealRecipe
+  id: RecipeSausage
+  name: sausage recipe
+  result: FoodSausage
+  time: 5
+  group: Savory
+  solids:
+    FoodMeatCutlet: 2
+    FoodMeatMeatball: 1

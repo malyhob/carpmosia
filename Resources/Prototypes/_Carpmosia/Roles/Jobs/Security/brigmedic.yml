@@ -5,7 +5,7 @@
   playTimeTracker: JobBrigmedic
   requirements:
     # todo
-  displayWeight: 25 # Carpmosia-edit - Reorder jobs
+  displayWeight: 30
   startingGear: SecurityOfficerGear
   icon: "JobIconBrigmedic"
   supervisors: job-supervisors-hos

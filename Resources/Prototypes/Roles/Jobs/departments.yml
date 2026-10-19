@@ -91,6 +91,7 @@
   - SecurityOfficer
   - Detective
   - Warden
+  - Brigmedic # Carpmosia-edit Brigmedic
 
 - type: department
   id: Service

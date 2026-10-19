@@ -20,7 +20,7 @@
 - type: loadout
   id: BrigmedicJumpsuit
   equipment:
-    uniform: ClothingUniformJumpsuitBrigmedic
+    jumpsuit: ClothingUniformJumpsuitBrigmedic
 
 - type: loadout
   id: BrigmedicJumpskirt

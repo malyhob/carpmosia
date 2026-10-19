@@ -4,13 +4,11 @@
   # - GroupTankHarness
   # Common groups
   - BrigmedicHead
-  - SecurityOfficerHead
   - BrigmedicGlasses
-  - SecurityOfficerGlasses
   # - SecurityOfficerMask
   - SecurityOfficerNeck
   # - SecurityOfficerGloves
-  - BrigmedicJumpsuits
+  - BrigmedicJumpsuit
   - SecurityOfficerBackpack
   - BrigmedicPDA
   - SecurityOfficerBelt

@@ -33,6 +33,21 @@
     id: BrigmedicPDA
 
 - type: loadout
+  id: BrigmedicBackpack
+  equipment:
+    id: ClothingBackpackBrigmedic
+
+- type: loadout
+  id: BrigmedicSatchel
+  equipment:
+    id: ClothingBackpackSatchelBrigmedic
+
+- type: loadout
+  id: BrigmedicDuffel
+  equipment:
+    id: ClothingBackpackDuffelBrigmedic
+
+- type: loadout
   id: MedSecVisor
   equipment:
     eyes: ClothingEyesHudMedSec

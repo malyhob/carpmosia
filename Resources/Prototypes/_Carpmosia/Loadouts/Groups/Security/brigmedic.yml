@@ -12,6 +12,14 @@
   - BrigmedicJumpskirt
 
 - type: loadoutGroup
+  parent: [ SecurityBackpack, BaseBackpack ]
+  id: BrigmedicBack
+  loadouts:
+  - BrigmedicBackpack
+  - BrigmedicSatchel
+  - BrigmedicDuffel
+
+- type: loadoutGroup
   parent: [ SecurityPDA, CommonPDA ]
   id: BrigmedicPDA
   loadouts:

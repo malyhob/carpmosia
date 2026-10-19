@@ -6,7 +6,7 @@
   requirements:
     # todo
   displayWeight: 30
-  startingGear: SecurityOfficerGear
+  startingGear: BrigmedicGear
   icon: "JobIconBrigmedic"
   supervisors: job-supervisors-hos
   guides: [ Security ] # TODO: should have a more specific guidebook page instead of using the department itself
@@ -20,6 +20,17 @@
   special:
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant ]
+
+- type: startingGear
+  id: BrigmedicGear
+  equipment:
+    # eyes: ClothingEyesGlassesSecurity # Carpmosia-edit - crew visors
+    ears: ClothingHeadsetBrigmedic
+    pocket1: WeaponPistolMk58
+  storage:
+    back:
+    - Flash
+    - MagazinePistol
 
 - type: chameleonOutfit
   id: BrigmedicChameleonOutfit

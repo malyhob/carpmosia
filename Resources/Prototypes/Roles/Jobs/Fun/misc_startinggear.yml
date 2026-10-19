@@ -130,7 +130,7 @@
 #Brigmedic
 
 - type: startingGear
-  id: BrigmedicGear
+  id: BrigmedicGearFull # Carpmosia-edit Brigmedic
   equipment:
     jumpsuit: ClothingUniformJumpsuitBrigmedic
     outerClothing: ClothingOuterCoatAMG

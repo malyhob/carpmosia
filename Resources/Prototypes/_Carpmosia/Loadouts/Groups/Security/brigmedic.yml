@@ -20,7 +20,7 @@
   - BrigmedicDuffel
 
 - type: loadoutGroup
-  parent: [ SecurityOuterClothing, CommonOuterClothing ]
+  parent: [ SecurityOfficerOuterClothing, SecurityOuterClothing, CommonOuterClothing ]
   id: BrigmedicOuterClothing
   loadouts:
   - BrigmedicCoat

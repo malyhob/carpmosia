@@ -1,0 +1,25 @@
+- type: roleLoadout
+  id: JobBrigmedic
+  groups:
+  # - GroupTankHarness
+  # Common groups
+  - BrigmedicHead
+  - SecurityOfficerHead
+  - BrigmedicGlasses
+  - SecurityOfficerGlasses
+  # - SecurityOfficerMask
+  - SecurityOfficerNeck
+  # - SecurityOfficerGloves
+  - BrigmedicJumpsuits
+  - SecurityOfficerBackpack
+  - BrigmedicPDA
+  - SecurityOfficerBelt
+  - SecurityOfficerOuterClothing
+  - SecurityOfficerShoes
+  # Backpack fills
+  - SurvivalSecurity
+  - GroupSpeciesBreathToolSecurity
+  # - SecurityOfficerSpecial
+  - AssistiveItems
+  - SecurityOfficerTrinkets
+  - SecurityOfficerPets

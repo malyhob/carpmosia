@@ -1,0 +1,25 @@
+- type: loadoutGroup
+  parent: [ SecurityHead, CommonHead ]
+  id: BrigmedicHead
+  loadouts:
+  - BrigmedicBeret
+
+- type: loadoutGroup
+  parent: [ SecurityJumpsuit, CommonJumpsuit ]
+  id: BrigmedicJumpsuits
+  loadouts:
+  - BrigmedicJumpsuit
+  - BrigmedicJumpskirt
+
+- type: loadoutGroup
+  parent: [ SecurityPDA, CommonPDA ]
+  id: BrigmedicPDA
+  loadouts:
+  - BrigmedPDA
+
+- type: loadoutGroup
+  parent: [ SecurityGlasses ] # CommonGlasses removed
+  id: BrigmedicGlasses
+  minLimit: 1
+  loadouts:
+  - MedSecVisor

@@ -43,6 +43,11 @@
     id: ClothingBackpackSatchelBrigmedic
 
 - type: loadout
+  id: BrigmedicCoat
+  equipment:
+    id: ClothingOuterCoatAMG
+
+- type: loadout
   id: BrigmedicDuffel
   equipment:
     id: ClothingBackpackDuffelBrigmedic

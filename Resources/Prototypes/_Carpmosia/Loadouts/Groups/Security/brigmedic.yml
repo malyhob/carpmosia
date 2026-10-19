@@ -20,6 +20,12 @@
   - BrigmedicDuffel
 
 - type: loadoutGroup
+  parent: [ SecurityOuterClothing, CommonOuterClothing ]
+  id: BrigmedicOuterClothing
+  loadouts:
+  - BrigmedicCoat
+
+- type: loadoutGroup
   parent: [ SecurityPDA, CommonPDA ]
   id: BrigmedicPDA
   loadouts:

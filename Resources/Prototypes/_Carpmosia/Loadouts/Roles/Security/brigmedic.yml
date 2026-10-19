@@ -9,10 +9,10 @@
   - SecurityOfficerNeck
   # - SecurityOfficerGloves
   - BrigmedicJumpsuit
-  - SecurityOfficerBackpack
+  - BrigmedicBack
   - BrigmedicPDA
-  - SecurityOfficerBelt
-  - SecurityOfficerOuterClothing
+  - SecurityOfficerBelt # TODO: secmedbelt
+  - BrigmedicOuterClothing
   - SecurityOfficerShoes
   # Backpack fills
   - SurvivalSecurity

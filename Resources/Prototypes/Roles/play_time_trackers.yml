@@ -131,10 +131,7 @@
 
 - type: playTimeTracker
   id: JobSecurityOfficer
-# Carpmosia-start - Brigmedic
-- type: playTimeTracker
-  id: JobBrigmedic
-# Carpmosia-end - Brigmedic
+
 - type: playTimeTracker
   id: JobServiceWorker
 

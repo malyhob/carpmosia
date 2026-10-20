@@ -46,6 +46,7 @@
     HeadOfSecurity: 0 # Carpmosia-edit - Job priority rebalance
     SecurityCadet: 0
     SecurityOfficer: 0
+    Brigmedic: 0 # Carpmosia-edit Brigmedic
     Warden: 0 # Carpmosia-edit - Job priority rebalance
     Psychologist: 0
     Reporter: 0

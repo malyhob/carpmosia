@@ -5,7 +5,7 @@
   playTimeTracker: JobBrigmedic
   requirements:
     # todo
-  displayWeight: 30
+  displayWeight: 60
   startingGear: BrigmedicGear
   icon: "JobIconBrigmedic"
   supervisors: job-supervisors-hos
@@ -24,8 +24,8 @@
 - type: startingGear
   id: BrigmedicGear
   equipment:
-    # eyes: ClothingEyesGlassesSecurity # Carpmosia-edit - crew visors
     ears: ClothingHeadsetBrigmedic
+    id: BrigmedicPDA
     pocket1: WeaponPistolMk58
   storage:
     back:

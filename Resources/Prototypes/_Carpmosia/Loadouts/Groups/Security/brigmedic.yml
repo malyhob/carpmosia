@@ -26,12 +26,6 @@
   - BrigmedicCoat
 
 - type: loadoutGroup
-  parent: [ SecurityPDA, CommonPDA ]
-  id: BrigmedicPDA
-  loadouts:
-  - BrigmedPDA
-
-- type: loadoutGroup
   parent: [ SecurityGlasses ] # CommonGlasses removed
   id: BrigmedicGlasses
   minLimit: 1

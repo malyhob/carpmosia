@@ -13,51 +13,6 @@
     eyes: ClothingEyesGlassesSecurity
 
 - type: loadout
-  id: BrigmedicBeret
-  equipment:
-    head: ClothingHeadHatBeretBrigmedic
-
-- type: loadout
-  id: BrigmedicJumpsuit
-  equipment:
-    jumpsuit: ClothingUniformJumpsuitBrigmedic
-
-- type: loadout
-  id: BrigmedicJumpskirt
-  equipment:
-    jumpsuit: ClothingUniformJumpskirtBrigmedic
-
-- type: loadout
-  id: BrigmedPDA
-  equipment:
-    id: BrigmedicPDA
-
-- type: loadout
-  id: BrigmedicBackpack
-  equipment:
-    id: ClothingBackpackBrigmedic
-
-- type: loadout
-  id: BrigmedicSatchel
-  equipment:
-    id: ClothingBackpackSatchelBrigmedic
-
-- type: loadout
-  id: BrigmedicCoat
-  equipment:
-    id: ClothingOuterCoatAMG
-
-- type: loadout
-  id: BrigmedicDuffel
-  equipment:
-    id: ClothingBackpackDuffelBrigmedic
-
-- type: loadout
-  id: MedSecVisor
-  equipment:
-    eyes: ClothingEyesHudMedSec
-
-- type: loadout
   id: SecurityVisor
   equipment:
     eyes: ClothingEyesVisorSecurity

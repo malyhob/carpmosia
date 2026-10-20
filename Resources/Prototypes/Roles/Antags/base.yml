@@ -61,6 +61,7 @@
   - Detective
   - SecurityOfficer
   - SecurityCadet
+  - Brigmedic # Carpmosia-edit Brigmedic
 
 - type: antagSpecifier
   abstract: true
